@@ -2,8 +2,10 @@
 
 This project is a step towards disaster rescue efforts in the aftermath of a major disaster - natural or man-made. It aims to classify the category of the disaster and help first responders equip themselves with better tool, especially in remote or rural areas outside the vicinity of towns and cities. There are six categories, five positives - infrastructure, nature, fires, flood, human-damage and a negative class with no damage. The dataset is composed of 5879 images containing 640x640 images and was broken into ~5000:800 for training and validation. Random data augmentation techniques were applied for making the model robust to unseen samples. Below are two images belonging to nature and fires.
 
-<img align="left" width="640" height="480" src="hurricaneirma.jpg">
-<img align="right" width="640" height="480" src="buildingcollapse.jpg">
+## Sample Images
+
+<img align="left" width="320" height="240" src="hurricaneirma.jpg">
+<img align="right" width="320" height=240" src="buildingcollapse.jpg">
 
 ## Networks used for inference 
 
