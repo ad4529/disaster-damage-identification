@@ -5,7 +5,7 @@ This project is a step towards disaster rescue efforts in the aftermath of a maj
 ## Sample Images
 
 <img align="left" width="320" height="240" src="hurricaneirma.jpg">
-<img align="right" width="320" height=240" src="buildingcollapse.jpg"><br /><br />
+<img align="right" width="320" height=240" src="buildingcollapse.jpg"><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Networks used for inference 
 
