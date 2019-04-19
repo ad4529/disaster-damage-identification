@@ -7,6 +7,12 @@ This project is a step towards disaster rescue efforts in the aftermath of a maj
 <img align="left" width="320" height="240" src="hurricaneirma.jpg">
 <img align="right" width="320" height=240" src="buildingcollapse.jpg">
 
+
+
+
+
+
+
 ## Networks used for inference 
 
 Two models were trained on the dataset -  a pre-trained VGG16 on ImageNet and a custom CNN trained from scratch. While the pre-trained gave better performance, the custom CNN took a lot less time to give optimal performance while not being too far behind a large VGG network in terms of accuracy. The ablation studies performed showed that bigger badder networks don't always give best results and is highly dataset dependant and the number of classes.
